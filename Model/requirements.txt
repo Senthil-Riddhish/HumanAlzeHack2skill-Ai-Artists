@@ -1,0 +1,16 @@
+flask
+flask_cors
+pandas
+joblib
+scikit-learn
+Gunicorn
+transformers
+sentencepiece
+python-Levenshtein
+fuzzywuzzy
+tokenizers
+fsspec
+errant
+gramformer
+
+
