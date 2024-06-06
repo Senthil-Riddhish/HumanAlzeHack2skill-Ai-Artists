@@ -46,15 +46,32 @@ Datasets taken from [YouData.ai](https://www.youdata.ai/) :
 -  Natural Language Processing (Nlp) Reasoning: https://www.youdata.ai/datasets/661d16cf9982e31fead0149d
 
 ## Step-by-Step Code Execution Instructions
-Clone the Repo by using the below command: 
+1. Clone the Repo by using the below command: 
 ```
+git clone https://github.com/Senthil-Riddhish/HumanAlzeHack2skill-Ai-Artists.git
 ```
+2. After cloning,You will find three folder Client, Model and Server
+Open two different Terminals and open Client and Server inside it and run the below two commands:
+Install packages:
+```
+npm install
+```
+Start
+```
+npm  start
+```
+3. For running the model,Open the Model  Folder in separate terminal
+Run the below command,before that install necessary packages and Libraries
+```
+python app.py
+```
+
 
 ## Technology stack involved
 - Frontend: [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 - Backend: [![My Skills](https://skillicons.dev/icons?i=nodejs,express,js)](https://skillicons.dev)
 - Database: [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-- Language Model Training : [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+- Language Model Training : [![My Skills](https://skillicons.dev/icons?i=py,flask)](https://skillicons.dev)
 - Platform Used : [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ## Model preprocessing and training
