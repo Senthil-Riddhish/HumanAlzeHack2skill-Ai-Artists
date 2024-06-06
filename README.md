@@ -2,9 +2,9 @@
 # Automated Grading and Feedback : SmartExamPro (Team : Ai Artists)
 ![image](https://github.com/Senthil-Riddhish/HumanAlzeHack2skill-Ai-Artists/assets/82893678/f1339060-e31a-4fae-90fc-e3c391bb1745)
 
-Our project aims to revolutionize education through an AI-driven automated grading, evaluation, and feedback system. Powered by advanced NLP techniques, it assesses written responses with precision, the system provides a comprehensive evaluation by automatically detecting and correcting grammar, punctuation, and spelling errors. It also performs real-time plagiarism checks, ensuring academic integrity. Beyond grading, it delivers personalized feedback and detailed performance analysis for each student, accommodating diverse learning styles. Teachers can create tests, students submit responses for automated evaluation and grading.
+Our project aims to revolutionize education through an AI-driven automated grading, evaluation, and feedback system. 🌟 Powered by advanced NLP techniques, it assesses written responses with precision. ✏️ The system provides a comprehensive evaluation by automatically detecting and correcting grammar, punctuation, and spelling errors. 📝 It also performs real-time plagiarism checks, ensuring academic integrity. 🔍 Beyond grading, it delivers personalized feedback and detailed performance analysis for each student, accommodating diverse learning styles. 📊 Teachers can create tests, students submit responses for automated evaluation and grading. 📚
 
-We’re aiming to develop an AI-driven automated grading, evaluation, feedback, and recommendation system tailored for educational institutions.
+We’re aiming to develop an AI-driven automated grading, evaluation, feedback, and recommendation system tailored for educational institutions. 🎓✨
 
 ## **Table of Contents**
  - Purpose
