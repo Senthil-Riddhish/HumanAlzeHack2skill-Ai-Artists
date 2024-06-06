@@ -35,9 +35,9 @@ Key Features:
 ![image](https://github.com/Senthil-Riddhish/HumanAlzeHack2skill-Ai-Artists/assets/82893678/9325ee04-8e0a-42b1-97da-0bc458d388b3)
 
 ## Architecture Diagram
-![image](https://github.com/Senthil-Riddhish/HumanAlzeHack2skill-Ai-Artists/assets/82893678/7f839309-f1d3-4cfd-8c43-b3c3e09acd9b)
-![image](https://github.com/Senthil-Riddhish/HumanAlzeHack2skill-Ai-Artists/assets/82893678/de6de28a-e5a1-4af6-ae80-ae2de1e1f656)
-![image](https://github.com/Senthil-Riddhish/HumanAlzeHack2skill-Ai-Artists/assets/82893678/b5ceadf6-fed2-4650-84d4-c5d3f5ab1aaf)
+![image](https://github.com/Senthil-Riddhish/HumanAlzeHack2skill-Ai-Artists/assets/82893678/f4a1a116-abb3-44bf-bd6d-bc3436508faf)
+![image](https://github.com/Senthil-Riddhish/HumanAlzeHack2skill-Ai-Artists/assets/82893678/7a97a8f0-e88a-4e43-9300-e45fe7f34555)
+
 
 ## Datasets
 Datasets taken from [YouData.ai](https://www.youdata.ai/) :
