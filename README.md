@@ -45,6 +45,11 @@ Datasets taken from [YouData.ai](https://www.youdata.ai/) :
 - Text generation and language processing: https://www.youdata.ai/datasets/65f6856c111e3e17ed622395
 -  Natural Language Processing (Nlp) Reasoning: https://www.youdata.ai/datasets/661d16cf9982e31fead0149d
 
+## Step-by-Step Code Execution Instructions
+Clone the Repo by using the below command: 
+```
+```
+
 ## Technology stack involved
 - Frontend: [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 - Backend: [![My Skills](https://skillicons.dev/icons?i=nodejs,express,js)](https://skillicons.dev)
