@@ -52,11 +52,11 @@ git clone https://github.com/Senthil-Riddhish/HumanAlzeHack2skill-Ai-Artists.git
 ```
 2. After cloning,You will find three folder Client, Model and Server
 Open two different Terminals and open Client and Server inside it and run the below two commands:
-Install packages:
+- Install packages:
 ```
 npm install
 ```
-Start
+- Start
 ```
 npm  start
 ```
